@@ -1,0 +1,34 @@
+menu:
+  Home: /
+#  Github: https://github.com/InfoGeeker
+#  Geeks: /geeks
+#  Archives: /archives
+  About: /about 
+  RSS: http://vimer.me/atom.xml
+
+excerpt_link: Read More
+archive_date_format: MMM DD
+
+widgets:
+# - category
+#- tagcloud
+  - tag
+  - recent_comments
+  - blogroll
+
+blogrolls:
+  - 酷壳: http://coolshell.cn
+  - 邪恶二进制: http://evilbinary.org
+  - Hmgle: http://hmgle.github.io
+  - 运维派: http://www.yunweipai.com
+  - 依云: http://lilydjwg.is-programmer.com
+
+fancybox: true
+duoshuo_shortname: vimerme
+
+#rss: http://vimer.me/atom.xml
+
+#google_analytics:
+baidu_analytics: true 
+
+favicon: /favicon.ico
